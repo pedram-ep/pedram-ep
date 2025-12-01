@@ -36,15 +36,16 @@
 <a href="https://github.com/pedram-ep">
   <img height=200 align="center" src="https://github-readme-stats-theta-dusky.vercel.app/api?username=pedram-ep&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
-<a href="https://github.com/pedram-ep">
+<!-- <a href="https://github.com/pedram-ep">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedram-ep&hide_progress=true&theme=transparent" />
-</a>
+</a> -->
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats-theta-dusky.vercel.app/api?username=pedram-ep&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedram-ep&hide_progress=true&theme=transparent)
 -->
 
+<!--
 ## Featured Projects
 <a href="https://github.com/pedram-ep/hosvd-image-denoising">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedram-ep&repo=hosvd-image-denoising" />
@@ -73,6 +74,7 @@
 <a href="https://github.com/pedram-ep/skip-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedram-ep&repo=skip-list" />
 </a>
+-->
 
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedram-ep&repo=hosvd-image-denoising)](https://github.com/pedram-ep/hosvd-image-denoising)
