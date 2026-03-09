@@ -33,9 +33,11 @@
 ![PlotLy](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 
-<a href="https://github.com/pedram-ep" align="center">
-  <img height=200 align="center" src="https://github-readme-stats-theta-dusky.vercel.app/api?username=pedram-ep&show_icons=true&theme=transparent&rank_icon=github" />
-</a>
+<div style="text-align: center;">
+  <a href="https://github.com/pedram-ep">
+    <img height=200 align="center" src="https://github-readme-stats-theta-dusky.vercel.app/api?username=pedram-ep&show_icons=true&theme=transparent&rank_icon=github" />
+  </a>
+</div>
 <!-- <a href="https://github.com/pedram-ep">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedram-ep&hide_progress=true&theme=transparent" />
 </a> -->
