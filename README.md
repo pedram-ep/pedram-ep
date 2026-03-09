@@ -33,7 +33,7 @@
 ![PlotLy](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 
-<a href="https://github.com/pedram-ep">
+<a href="https://github.com/pedram-ep" align="center">
   <img height=200 align="center" src="https://github-readme-stats-theta-dusky.vercel.app/api?username=pedram-ep&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 <!-- <a href="https://github.com/pedram-ep">
